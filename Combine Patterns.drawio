@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T08:43:01.837Z" agent="5.0 (Macintosh)" version="13.6.2" etag="dIUqPCoFEH5idtSohuMf" type="github"><diagram id="I1MLpo-QpEjnKgtQSGEt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-15T09:16:37.817Z" agent="5.0 (Macintosh)" etag="xeboIUNy4PpjOLugNpM_" version="13.6.2" type="github">
+  <diagram id="I1MLpo-QpEjnKgtQSGEt" name="Page-1">
+    <mxGraphModel dx="921" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlmeDYr8y5-AvEPjwVNZ-1" target="DlmeDYr8y5-AvEPjwVNZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlmeDYr8y5-AvEPjwVNZ-1" target="DlmeDYr8y5-AvEPjwVNZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-1" value="被观察者&lt;br&gt;(observable)" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="129" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-2" value="&lt;div&gt;观察者 A&lt;/div&gt;(observer A)" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-3" value="&lt;div&gt;观察者 B&lt;br&gt;(observer B)&lt;/div&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DlmeDYr8y5-AvEPjwVNZ-4" target="DlmeDYr8y5-AvEPjwVNZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlmeDYr8y5-AvEPjwVNZ-4" value="转换操作&lt;br&gt;(transform)" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
